@@ -28,14 +28,6 @@ Keep index.html, style.css, app.js and the whole assets folder together. SOURCES
 
 JavaScript syntax and isolated functional checks passed: custom timing, synchronized main/dialog displays, pause/resume, completion, validation, weather asset selection, joke rotation, all thirteen audio play/stop paths, all season filters and the twelve-item shelf. Four music buffers were checked for finite, non-silent, bounded samples. Real browser visual layout and listening QA could not be completed in this environment; review on your Mac before publishing. No public deployment was performed.
 
-## تشغيل النسخة على الماك — مرحلة واحدة
-
-1. نزّلي The-One-Cafe-Edition06.zip وافتحيه بضغطتين.
-2. افتحي المجلد الجديد the-one-cafe-edition06.
-3. اضغطي كليك يمين على index.html ثم Open With ثم Safari أو Google Chrome.
-4. تأكدي من وجود EDITION 06 · VINTAGE DETAILS بأسفل الصفحة. شغّلي المؤقّت وأغلقي نافذته؛ ستظهر الساعة الخضراء أسفل الشاشة.
-
-لا تمحي النسخة القديمة قبل التجربة. مجلد جديد ممكن يعني أن المهام القديمة لا تظهر؛ تبقى في النسخة القديمة حسب المتصفح. كل الصور المطلوبة موجودة داخل assets ولا تحتاج تنزيل إضافي.
 
 ## Edition 06 typography
 
